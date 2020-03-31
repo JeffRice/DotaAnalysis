@@ -1,5 +1,6 @@
 # DotaAnalysis
-DoTa 2 data analysis
+DoTa 2 data analysis (using the dota2 webapi below)
+https://wiki.teamfortress.com/wiki/WebAPI
 
 This is a collection of scripts that queries the Dota2 Web API and performs some operations on that data. I am interested in 
 obtaining and storing match details to run data analysis on the results.
